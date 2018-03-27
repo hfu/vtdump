@@ -1,0 +1,19 @@
+{
+  "name": "vtdump",
+  "version": "1.0.0",
+  "description": "dump a vector tile",
+  "main": "vtdump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/vtdump.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/vtdump/issues"
+  },
+  "homepage": "https://github.com/hfu/vtdump#readme"
+}
